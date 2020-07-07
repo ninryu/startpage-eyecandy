@@ -18,7 +18,7 @@
 
 /*-----------------------------------------------------------*/
 input {
-    height: 100px;
+    height: 1000px;
     width: 680px;
     background: #262626;
     color: var(--linkcolor);
