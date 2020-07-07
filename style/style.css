@@ -18,7 +18,7 @@
 
 /*-----------------------------------------------------------*/
 input {
-    height: inherit;
+    height: 100px;
     width: 680px;
     background: #262626;
     color: var(--linkcolor);
